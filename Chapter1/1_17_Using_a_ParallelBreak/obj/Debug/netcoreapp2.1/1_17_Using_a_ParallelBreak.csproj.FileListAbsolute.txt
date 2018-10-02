@@ -1,0 +1,10 @@
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_17_Using_a_ParallelBreak/bin/Debug/netcoreapp2.1/1_17_Using_a_ParallelBreak.deps.json
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_17_Using_a_ParallelBreak/bin/Debug/netcoreapp2.1/1_17_Using_a_ParallelBreak.runtimeconfig.json
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_17_Using_a_ParallelBreak/bin/Debug/netcoreapp2.1/1_17_Using_a_ParallelBreak.runtimeconfig.dev.json
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_17_Using_a_ParallelBreak/bin/Debug/netcoreapp2.1/1_17_Using_a_ParallelBreak.dll
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_17_Using_a_ParallelBreak/bin/Debug/netcoreapp2.1/1_17_Using_a_ParallelBreak.pdb
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_17_Using_a_ParallelBreak/obj/Debug/netcoreapp2.1/1_17_Using_a_ParallelBreak.csproj.CoreCompileInputs.cache
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_17_Using_a_ParallelBreak/obj/Debug/netcoreapp2.1/1_17_Using_a_ParallelBreak.AssemblyInfoInputs.cache
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_17_Using_a_ParallelBreak/obj/Debug/netcoreapp2.1/1_17_Using_a_ParallelBreak.AssemblyInfo.cs
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_17_Using_a_ParallelBreak/obj/Debug/netcoreapp2.1/1_17_Using_a_ParallelBreak.dll
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_17_Using_a_ParallelBreak/obj/Debug/netcoreapp2.1/1_17_Using_a_ParallelBreak.pdb

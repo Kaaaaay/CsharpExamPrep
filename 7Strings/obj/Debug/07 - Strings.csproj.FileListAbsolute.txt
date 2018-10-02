@@ -1,0 +1,14 @@
+C:/Users/Karabo.Mtimkulu/source/repos/NullableTypesDemo/7Strings/bin/Debug/7Strings.exe.config
+C:/Users/Karabo.Mtimkulu/source/repos/NullableTypesDemo/7Strings/bin/Debug/7Strings.exe
+C:/Users/Karabo.Mtimkulu/source/repos/NullableTypesDemo/7Strings/bin/Debug/7Strings.pdb
+C:/Users/Karabo.Mtimkulu/source/repos/NullableTypesDemo/7Strings/obj/Debug/07 - Strings.csprojAssemblyReference.cache
+C:/Users/Karabo.Mtimkulu/source/repos/NullableTypesDemo/7Strings/obj/Debug/07 - Strings.csproj.CoreCompileInputs.cache
+C:/Users/Karabo.Mtimkulu/source/repos/NullableTypesDemo/7Strings/obj/Debug/7Strings.exe
+C:/Users/Karabo.Mtimkulu/source/repos/NullableTypesDemo/7Strings/obj/Debug/7Strings.pdb
+/Volumes/K/C#/repos/NullableTypesDemo/7Strings/bin/Debug/7Strings.exe.config
+/Volumes/K/C#/repos/NullableTypesDemo/7Strings/bin/Debug/7Strings.exe
+/Volumes/K/C#/repos/NullableTypesDemo/7Strings/bin/Debug/7Strings.pdb
+/Volumes/K/C#/repos/NullableTypesDemo/7Strings/obj/Debug/07 - Strings.csprojResolveAssemblyReference.cache
+/Volumes/K/C#/repos/NullableTypesDemo/7Strings/obj/Debug/07 - Strings.csproj.CoreCompileInputs.cache
+/Volumes/K/C#/repos/NullableTypesDemo/7Strings/obj/Debug/7Strings.exe
+/Volumes/K/C#/repos/NullableTypesDemo/7Strings/obj/Debug/7Strings.pdb

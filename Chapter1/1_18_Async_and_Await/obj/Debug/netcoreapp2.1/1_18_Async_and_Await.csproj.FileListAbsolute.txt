@@ -1,0 +1,10 @@
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_18_Async_and_Await/bin/Debug/netcoreapp2.1/1_18_Async_and_Await.deps.json
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_18_Async_and_Await/bin/Debug/netcoreapp2.1/1_18_Async_and_Await.runtimeconfig.json
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_18_Async_and_Await/bin/Debug/netcoreapp2.1/1_18_Async_and_Await.runtimeconfig.dev.json
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_18_Async_and_Await/bin/Debug/netcoreapp2.1/1_18_Async_and_Await.dll
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_18_Async_and_Await/bin/Debug/netcoreapp2.1/1_18_Async_and_Await.pdb
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_18_Async_and_Await/obj/Debug/netcoreapp2.1/1_18_Async_and_Await.csproj.CoreCompileInputs.cache
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_18_Async_and_Await/obj/Debug/netcoreapp2.1/1_18_Async_and_Await.AssemblyInfoInputs.cache
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_18_Async_and_Await/obj/Debug/netcoreapp2.1/1_18_Async_and_Await.AssemblyInfo.cs
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_18_Async_and_Await/obj/Debug/netcoreapp2.1/1_18_Async_and_Await.dll
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_18_Async_and_Await/obj/Debug/netcoreapp2.1/1_18_Async_and_Await.pdb

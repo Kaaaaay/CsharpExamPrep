@@ -1,0 +1,10 @@
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_6_Queuing_To_ThreadPool/bin/Debug/netcoreapp2.1/1_6_Queuing_To_ThreadPool.deps.json
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_6_Queuing_To_ThreadPool/bin/Debug/netcoreapp2.1/1_6_Queuing_To_ThreadPool.runtimeconfig.json
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_6_Queuing_To_ThreadPool/bin/Debug/netcoreapp2.1/1_6_Queuing_To_ThreadPool.runtimeconfig.dev.json
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_6_Queuing_To_ThreadPool/bin/Debug/netcoreapp2.1/1_6_Queuing_To_ThreadPool.dll
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_6_Queuing_To_ThreadPool/bin/Debug/netcoreapp2.1/1_6_Queuing_To_ThreadPool.pdb
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_6_Queuing_To_ThreadPool/obj/Debug/netcoreapp2.1/1_6_Queuing_To_ThreadPool.csproj.CoreCompileInputs.cache
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_6_Queuing_To_ThreadPool/obj/Debug/netcoreapp2.1/1_6_Queuing_To_ThreadPool.AssemblyInfoInputs.cache
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_6_Queuing_To_ThreadPool/obj/Debug/netcoreapp2.1/1_6_Queuing_To_ThreadPool.AssemblyInfo.cs
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_6_Queuing_To_ThreadPool/obj/Debug/netcoreapp2.1/1_6_Queuing_To_ThreadPool.dll
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_6_Queuing_To_ThreadPool/obj/Debug/netcoreapp2.1/1_6_Queuing_To_ThreadPool.pdb

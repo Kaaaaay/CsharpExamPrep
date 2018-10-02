@@ -1,0 +1,10 @@
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_8_Using_a_Task_that_returns_a_value/bin/Debug/netcoreapp2.1/1_8_Using_a_Task_that_returns_a_value.deps.json
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_8_Using_a_Task_that_returns_a_value/bin/Debug/netcoreapp2.1/1_8_Using_a_Task_that_returns_a_value.runtimeconfig.json
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_8_Using_a_Task_that_returns_a_value/bin/Debug/netcoreapp2.1/1_8_Using_a_Task_that_returns_a_value.runtimeconfig.dev.json
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_8_Using_a_Task_that_returns_a_value/bin/Debug/netcoreapp2.1/1_8_Using_a_Task_that_returns_a_value.dll
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_8_Using_a_Task_that_returns_a_value/bin/Debug/netcoreapp2.1/1_8_Using_a_Task_that_returns_a_value.pdb
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_8_Using_a_Task_that_returns_a_value/obj/Debug/netcoreapp2.1/1_8_Using_a_Task_that_returns_a_value.csproj.CoreCompileInputs.cache
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_8_Using_a_Task_that_returns_a_value/obj/Debug/netcoreapp2.1/1_8_Using_a_Task_that_returns_a_value.AssemblyInfoInputs.cache
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_8_Using_a_Task_that_returns_a_value/obj/Debug/netcoreapp2.1/1_8_Using_a_Task_that_returns_a_value.AssemblyInfo.cs
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_8_Using_a_Task_that_returns_a_value/obj/Debug/netcoreapp2.1/1_8_Using_a_Task_that_returns_a_value.dll
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_8_Using_a_Task_that_returns_a_value/obj/Debug/netcoreapp2.1/1_8_Using_a_Task_that_returns_a_value.pdb

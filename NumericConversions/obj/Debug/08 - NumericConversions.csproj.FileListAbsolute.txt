@@ -1,0 +1,7 @@
+/Volumes/K/C#/repos/NullableTypesDemo/NumericConversions/bin/Debug/NumericConversions.exe.config
+/Volumes/K/C#/repos/NullableTypesDemo/NumericConversions/bin/Debug/NumericConversions.exe
+/Volumes/K/C#/repos/NullableTypesDemo/NumericConversions/bin/Debug/NumericConversions.pdb
+/Volumes/K/C#/repos/NullableTypesDemo/NumericConversions/obj/Debug/08 - NumericConversions.csprojResolveAssemblyReference.cache
+/Volumes/K/C#/repos/NullableTypesDemo/NumericConversions/obj/Debug/08 - NumericConversions.csproj.CoreCompileInputs.cache
+/Volumes/K/C#/repos/NullableTypesDemo/NumericConversions/obj/Debug/NumericConversions.exe
+/Volumes/K/C#/repos/NullableTypesDemo/NumericConversions/obj/Debug/NumericConversions.pdb

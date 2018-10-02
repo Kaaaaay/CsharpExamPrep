@@ -1,0 +1,7 @@
+C:\Users\Karabo.Mtimkulu\source\repos\NullableTypesDemo\11 - Exercise\bin\Debug\11 - Exercise.exe.config
+C:\Users\Karabo.Mtimkulu\source\repos\NullableTypesDemo\11 - Exercise\bin\Debug\11 - Exercise.exe
+C:\Users\Karabo.Mtimkulu\source\repos\NullableTypesDemo\11 - Exercise\bin\Debug\11 - Exercise.pdb
+C:\Users\Karabo.Mtimkulu\source\repos\NullableTypesDemo\11 - Exercise\obj\Debug\11 - Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Karabo.Mtimkulu\source\repos\NullableTypesDemo\11 - Exercise\obj\Debug\11 - Exercise.exe
+C:\Users\Karabo.Mtimkulu\source\repos\NullableTypesDemo\11 - Exercise\obj\Debug\11 - Exercise.pdb
+C:\Users\Karabo.Mtimkulu\source\repos\NullableTypesDemo\11 - Exercise\obj\Debug\11 - Exercise.csprojAssemblyReference.cache

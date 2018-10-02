@@ -1,0 +1,7 @@
+C:\Users\Karabo.Mtimkulu\source\repos\NullableTypesDemo\17 - Compound Expressions\bin\Debug\17 - Compound Expressions.exe.config
+C:\Users\Karabo.Mtimkulu\source\repos\NullableTypesDemo\17 - Compound Expressions\bin\Debug\17 - Compound Expressions.exe
+C:\Users\Karabo.Mtimkulu\source\repos\NullableTypesDemo\17 - Compound Expressions\bin\Debug\17 - Compound Expressions.pdb
+C:\Users\Karabo.Mtimkulu\source\repos\NullableTypesDemo\17 - Compound Expressions\obj\Debug\17 - Compound Expressions.csprojAssemblyReference.cache
+C:\Users\Karabo.Mtimkulu\source\repos\NullableTypesDemo\17 - Compound Expressions\obj\Debug\17 - Compound Expressions.csproj.CoreCompileInputs.cache
+C:\Users\Karabo.Mtimkulu\source\repos\NullableTypesDemo\17 - Compound Expressions\obj\Debug\17 - Compound Expressions.exe
+C:\Users\Karabo.Mtimkulu\source\repos\NullableTypesDemo\17 - Compound Expressions\obj\Debug\17 - Compound Expressions.pdb

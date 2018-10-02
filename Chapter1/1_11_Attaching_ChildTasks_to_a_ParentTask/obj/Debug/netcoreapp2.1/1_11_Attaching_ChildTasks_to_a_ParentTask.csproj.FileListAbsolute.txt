@@ -1,0 +1,10 @@
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_11_Attaching_ChildTasks_to_a_ParentTask/bin/Debug/netcoreapp2.1/1_11_Attaching_ChildTasks_to_a_ParentTask.deps.json
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_11_Attaching_ChildTasks_to_a_ParentTask/bin/Debug/netcoreapp2.1/1_11_Attaching_ChildTasks_to_a_ParentTask.runtimeconfig.json
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_11_Attaching_ChildTasks_to_a_ParentTask/bin/Debug/netcoreapp2.1/1_11_Attaching_ChildTasks_to_a_ParentTask.runtimeconfig.dev.json
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_11_Attaching_ChildTasks_to_a_ParentTask/bin/Debug/netcoreapp2.1/1_11_Attaching_ChildTasks_to_a_ParentTask.dll
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_11_Attaching_ChildTasks_to_a_ParentTask/bin/Debug/netcoreapp2.1/1_11_Attaching_ChildTasks_to_a_ParentTask.pdb
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_11_Attaching_ChildTasks_to_a_ParentTask/obj/Debug/netcoreapp2.1/1_11_Attaching_ChildTasks_to_a_ParentTask.csproj.CoreCompileInputs.cache
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_11_Attaching_ChildTasks_to_a_ParentTask/obj/Debug/netcoreapp2.1/1_11_Attaching_ChildTasks_to_a_ParentTask.AssemblyInfoInputs.cache
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_11_Attaching_ChildTasks_to_a_ParentTask/obj/Debug/netcoreapp2.1/1_11_Attaching_ChildTasks_to_a_ParentTask.AssemblyInfo.cs
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_11_Attaching_ChildTasks_to_a_ParentTask/obj/Debug/netcoreapp2.1/1_11_Attaching_ChildTasks_to_a_ParentTask.dll
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_11_Attaching_ChildTasks_to_a_ParentTask/obj/Debug/netcoreapp2.1/1_11_Attaching_ChildTasks_to_a_ParentTask.pdb

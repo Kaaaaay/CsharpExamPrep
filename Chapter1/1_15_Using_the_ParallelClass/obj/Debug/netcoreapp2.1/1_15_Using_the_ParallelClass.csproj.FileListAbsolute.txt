@@ -1,0 +1,10 @@
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_15_Using_the_ParallelClass/bin/Debug/netcoreapp2.1/1_15_Using_the_ParallelClass.deps.json
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_15_Using_the_ParallelClass/bin/Debug/netcoreapp2.1/1_15_Using_the_ParallelClass.runtimeconfig.json
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_15_Using_the_ParallelClass/bin/Debug/netcoreapp2.1/1_15_Using_the_ParallelClass.runtimeconfig.dev.json
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_15_Using_the_ParallelClass/bin/Debug/netcoreapp2.1/1_15_Using_the_ParallelClass.dll
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_15_Using_the_ParallelClass/bin/Debug/netcoreapp2.1/1_15_Using_the_ParallelClass.pdb
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_15_Using_the_ParallelClass/obj/Debug/netcoreapp2.1/1_15_Using_the_ParallelClass.csproj.CoreCompileInputs.cache
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_15_Using_the_ParallelClass/obj/Debug/netcoreapp2.1/1_15_Using_the_ParallelClass.AssemblyInfoInputs.cache
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_15_Using_the_ParallelClass/obj/Debug/netcoreapp2.1/1_15_Using_the_ParallelClass.AssemblyInfo.cs
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_15_Using_the_ParallelClass/obj/Debug/netcoreapp2.1/1_15_Using_the_ParallelClass.dll
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_15_Using_the_ParallelClass/obj/Debug/netcoreapp2.1/1_15_Using_the_ParallelClass.pdb

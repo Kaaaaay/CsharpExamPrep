@@ -1,0 +1,5 @@
+/Volumes/K/C#/repos/NullableTypesDemo/2.4_Create_and_Implement_Class_Hierachy/2.4.2/bin/Debug/2.4.2.exe
+/Volumes/K/C#/repos/NullableTypesDemo/2.4_Create_and_Implement_Class_Hierachy/2.4.2/bin/Debug/2.4.2.pdb
+/Volumes/K/C#/repos/NullableTypesDemo/2.4_Create_and_Implement_Class_Hierachy/2.4.2/obj/Android/Debug/2.4.2.csproj.CoreCompileInputs.cache
+/Volumes/K/C#/repos/NullableTypesDemo/2.4_Create_and_Implement_Class_Hierachy/2.4.2/obj/Android/Debug/2.4.2.exe
+/Volumes/K/C#/repos/NullableTypesDemo/2.4_Create_and_Implement_Class_Hierachy/2.4.2/obj/Android/Debug/2.4.2.pdb

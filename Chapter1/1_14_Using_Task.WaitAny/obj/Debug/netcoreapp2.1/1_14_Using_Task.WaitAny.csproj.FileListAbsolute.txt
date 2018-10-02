@@ -1,0 +1,10 @@
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_14_Using_Task.WaitAny/bin/Debug/netcoreapp2.1/1_14_Using_Task.WaitAny.deps.json
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_14_Using_Task.WaitAny/bin/Debug/netcoreapp2.1/1_14_Using_Task.WaitAny.runtimeconfig.json
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_14_Using_Task.WaitAny/bin/Debug/netcoreapp2.1/1_14_Using_Task.WaitAny.runtimeconfig.dev.json
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_14_Using_Task.WaitAny/bin/Debug/netcoreapp2.1/1_14_Using_Task.WaitAny.dll
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_14_Using_Task.WaitAny/bin/Debug/netcoreapp2.1/1_14_Using_Task.WaitAny.pdb
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_14_Using_Task.WaitAny/obj/Debug/netcoreapp2.1/1_14_Using_Task.WaitAny.csproj.CoreCompileInputs.cache
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_14_Using_Task.WaitAny/obj/Debug/netcoreapp2.1/1_14_Using_Task.WaitAny.AssemblyInfoInputs.cache
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_14_Using_Task.WaitAny/obj/Debug/netcoreapp2.1/1_14_Using_Task.WaitAny.AssemblyInfo.cs
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_14_Using_Task.WaitAny/obj/Debug/netcoreapp2.1/1_14_Using_Task.WaitAny.dll
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_14_Using_Task.WaitAny/obj/Debug/netcoreapp2.1/1_14_Using_Task.WaitAny.pdb

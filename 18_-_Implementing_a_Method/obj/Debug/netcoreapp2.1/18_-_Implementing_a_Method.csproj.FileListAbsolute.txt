@@ -1,0 +1,4 @@
+/Volumes/K/C#/repos/NullableTypesDemo/18_-_Implementing_a_Method/obj/Debug/netcoreapp2.1/18_-_Implementing_a_Method.csprojResolveAssemblyReference.cache
+/Volumes/K/C#/repos/NullableTypesDemo/18_-_Implementing_a_Method/obj/Debug/netcoreapp2.1/18_-_Implementing_a_Method.csproj.CoreCompileInputs.cache
+/Volumes/K/C#/repos/NullableTypesDemo/18_-_Implementing_a_Method/obj/Debug/netcoreapp2.1/18_-_Implementing_a_Method.AssemblyInfoInputs.cache
+/Volumes/K/C#/repos/NullableTypesDemo/18_-_Implementing_a_Method/obj/Debug/netcoreapp2.1/18_-_Implementing_a_Method.AssemblyInfo.cs

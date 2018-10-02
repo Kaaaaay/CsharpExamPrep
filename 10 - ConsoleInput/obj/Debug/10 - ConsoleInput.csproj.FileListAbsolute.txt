@@ -1,0 +1,7 @@
+C:\Users\Karabo.Mtimkulu\source\repos\NullableTypesDemo\10 - ConsoleInput\bin\Debug\10 - ConsoleInput.exe.config
+C:\Users\Karabo.Mtimkulu\source\repos\NullableTypesDemo\10 - ConsoleInput\bin\Debug\10 - ConsoleInput.exe
+C:\Users\Karabo.Mtimkulu\source\repos\NullableTypesDemo\10 - ConsoleInput\bin\Debug\10 - ConsoleInput.pdb
+C:\Users\Karabo.Mtimkulu\source\repos\NullableTypesDemo\10 - ConsoleInput\obj\Debug\10 - ConsoleInput.csproj.CoreCompileInputs.cache
+C:\Users\Karabo.Mtimkulu\source\repos\NullableTypesDemo\10 - ConsoleInput\obj\Debug\10 - ConsoleInput.exe
+C:\Users\Karabo.Mtimkulu\source\repos\NullableTypesDemo\10 - ConsoleInput\obj\Debug\10 - ConsoleInput.pdb
+C:\Users\Karabo.Mtimkulu\source\repos\NullableTypesDemo\10 - ConsoleInput\obj\Debug\10 - ConsoleInput.csprojAssemblyReference.cache

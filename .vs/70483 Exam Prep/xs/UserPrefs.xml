@@ -1,0 +1,45 @@
+﻿<Properties StartupConfiguration="{348BB09D-A36C-4197-9617-9C12AEA92F0C}|Default">
+  <MonoDevelop.Ide.ItemProperties.04_220-_220Exam_220Guide.Objective_2201.1_220.1__14__Using__Task.WaitAny PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.04_220-_220Exam_220Guide.Objective_2201.1_220.1__11__Attaching__ChildTasks__to__a__ParentTask PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="EndOfBasics/Program.cs">
+    <Files>
+      <File FileName="PassLeader/Program.cs" Line="14" Column="16" />
+      <File FileName="PassLeader/LoanCollection.cs" Line="24" Column="6" />
+      <File FileName="PassLeader/Loan.cs" Line="1" Column="1" />
+      <File FileName="18_-_Implementing_a_Method/Program.cs" Line="13" Column="27" />
+      <File FileName="EndOfBasics/Program.cs" Line="79" Column="16" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.02_220-_220Intermediate.01IntroToTasks FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.04_220-_220Exam_220Guide.Objective_2201.1_220.1__5__Using__the__ThreadStaticAttribute FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.04_220-_220Exam_220Guide.Objective_2202.4.2.4.2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|Android" />
+  <MonoDevelop.Ide.ItemProperties.04_220-_220Exam_220Guide.Objective_2201.1_220.1__12__Using__a__TaskFactory PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.04_220-_220Exam_220Guide.Objective_2201.1_220.1__7__Starting__a__Task PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.01_220-_220Basics.18__-__Implementing__a__Method PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.01_220-_220Basics.EndOfBasics FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.04_220-_220Exam_220Guide.Objective_2201.1_220.1__6__Queuing__To__ThreadPool PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.02_220-_220Intermediate.02Tasks FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.04_220-_220Exam_220Guide.Objective_2202.3_220Enforcing_220Encapsulation.EyeTest FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.04_220-_220Exam_220Guide.Objective_2201.2.1__35__AccesingSharedData PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.04_220-_220Exam_220Guide.Other.PassLeader FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.04_220-_220Exam_220Guide.Objective_2201.1_220.1__18__Async__and__Await PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.04_220-_220Exam_220Guide.Objective_2201.1_220.1__17__Using__a__ParallelBreak PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.01_220-_220Basics.07_220-_220Strings PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.04_220-_220Exam_220Guide.Objective_2201.1_220.1__16__Using__a__Parallel__Foreach PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.04_220-_220Exam_220Guide.Objective_2201.1_220.1__8__Using__a__Task__that__returns__a__value PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.04_220-_220Exam_220Guide.Objective_2201.1_220.1__2__Using__A__BackgroundThread PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.04_220-_220Exam_220Guide.Objective_2201.1_220.1__10__Adding__a__Continuation PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.04_220-_220Exam_220Guide.Objective_2201.1_220.1__15__Using__the__ParallelClass PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.04_220-_220Exam_220Guide.Objective_2202.4.2.4.1__Create__and__Implement__Class__Hierachy FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.04_220-_220Exam_220Guide.Objective_2202.3_220Enforcing_220Encapsulation.2.3.1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.04_220-_220Exam_220Guide.Objective_2201.1_220.1__1__Chapter1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.04_220-_220Exam_220Guide.Objective_2201.1_220.1__3__Using__ParameterizedThreadStart PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.04_220-_220Exam_220Guide.Objective_2201.1_220.1__13__Using__Task.WaitAll PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.04_220-_220Exam_220Guide.Objective_2201.1_220.1__4__Stopping__a__Thread PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,7 @@
+C:\Users\Karabo.Mtimkulu\source\repos\NullableTypesDemo\NullableTypesDemo\bin\Debug\NullableTypesDemo.exe.config
+C:\Users\Karabo.Mtimkulu\source\repos\NullableTypesDemo\NullableTypesDemo\bin\Debug\NullableTypesDemo.exe
+C:\Users\Karabo.Mtimkulu\source\repos\NullableTypesDemo\NullableTypesDemo\bin\Debug\NullableTypesDemo.pdb
+C:\Users\Karabo.Mtimkulu\source\repos\NullableTypesDemo\NullableTypesDemo\obj\Debug\NullableTypesDemo.csprojAssemblyReference.cache
+C:\Users\Karabo.Mtimkulu\source\repos\NullableTypesDemo\NullableTypesDemo\obj\Debug\NullableTypesDemo.csproj.CoreCompileInputs.cache
+C:\Users\Karabo.Mtimkulu\source\repos\NullableTypesDemo\NullableTypesDemo\obj\Debug\NullableTypesDemo.exe
+C:\Users\Karabo.Mtimkulu\source\repos\NullableTypesDemo\NullableTypesDemo\obj\Debug\NullableTypesDemo.pdb

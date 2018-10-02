@@ -1,0 +1,10 @@
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_12_Using_a_TaskFactory/bin/Debug/netcoreapp2.1/1_12_Using_a_TaskFactory.deps.json
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_12_Using_a_TaskFactory/bin/Debug/netcoreapp2.1/1_12_Using_a_TaskFactory.runtimeconfig.json
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_12_Using_a_TaskFactory/bin/Debug/netcoreapp2.1/1_12_Using_a_TaskFactory.runtimeconfig.dev.json
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_12_Using_a_TaskFactory/bin/Debug/netcoreapp2.1/1_12_Using_a_TaskFactory.dll
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_12_Using_a_TaskFactory/bin/Debug/netcoreapp2.1/1_12_Using_a_TaskFactory.pdb
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_12_Using_a_TaskFactory/obj/Debug/netcoreapp2.1/1_12_Using_a_TaskFactory.csproj.CoreCompileInputs.cache
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_12_Using_a_TaskFactory/obj/Debug/netcoreapp2.1/1_12_Using_a_TaskFactory.AssemblyInfoInputs.cache
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_12_Using_a_TaskFactory/obj/Debug/netcoreapp2.1/1_12_Using_a_TaskFactory.AssemblyInfo.cs
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_12_Using_a_TaskFactory/obj/Debug/netcoreapp2.1/1_12_Using_a_TaskFactory.dll
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_12_Using_a_TaskFactory/obj/Debug/netcoreapp2.1/1_12_Using_a_TaskFactory.pdb

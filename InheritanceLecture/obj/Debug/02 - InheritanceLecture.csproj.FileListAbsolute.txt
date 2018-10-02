@@ -1,0 +1,7 @@
+C:\Users\Karabo.Mtimkulu\source\repos\NullableTypesDemo\InheritanceLecture\bin\Debug\InheritanceLecture.exe.config
+C:\Users\Karabo.Mtimkulu\source\repos\NullableTypesDemo\InheritanceLecture\bin\Debug\InheritanceLecture.exe
+C:\Users\Karabo.Mtimkulu\source\repos\NullableTypesDemo\InheritanceLecture\bin\Debug\InheritanceLecture.pdb
+C:\Users\Karabo.Mtimkulu\source\repos\NullableTypesDemo\InheritanceLecture\obj\Debug\02 - InheritanceLecture.csprojAssemblyReference.cache
+C:\Users\Karabo.Mtimkulu\source\repos\NullableTypesDemo\InheritanceLecture\obj\Debug\02 - InheritanceLecture.csproj.CoreCompileInputs.cache
+C:\Users\Karabo.Mtimkulu\source\repos\NullableTypesDemo\InheritanceLecture\obj\Debug\InheritanceLecture.exe
+C:\Users\Karabo.Mtimkulu\source\repos\NullableTypesDemo\InheritanceLecture\obj\Debug\InheritanceLecture.pdb

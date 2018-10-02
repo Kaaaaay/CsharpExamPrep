@@ -1,0 +1,7 @@
+C:\Users\Karabo.Mtimkulu\source\repos\NullableTypesDemo\CreatingAClass\bin\Debug\CreatingAClass.exe.config
+C:\Users\Karabo.Mtimkulu\source\repos\NullableTypesDemo\CreatingAClass\bin\Debug\CreatingAClass.exe
+C:\Users\Karabo.Mtimkulu\source\repos\NullableTypesDemo\CreatingAClass\bin\Debug\CreatingAClass.pdb
+C:\Users\Karabo.Mtimkulu\source\repos\NullableTypesDemo\CreatingAClass\obj\Debug\52 - CreatingAClass.csproj.CoreCompileInputs.cache
+C:\Users\Karabo.Mtimkulu\source\repos\NullableTypesDemo\CreatingAClass\obj\Debug\CreatingAClass.exe
+C:\Users\Karabo.Mtimkulu\source\repos\NullableTypesDemo\CreatingAClass\obj\Debug\CreatingAClass.pdb
+C:\Users\Karabo.Mtimkulu\source\repos\NullableTypesDemo\CreatingAClass\obj\Debug\52 - CreatingAClass.csprojAssemblyReference.cache

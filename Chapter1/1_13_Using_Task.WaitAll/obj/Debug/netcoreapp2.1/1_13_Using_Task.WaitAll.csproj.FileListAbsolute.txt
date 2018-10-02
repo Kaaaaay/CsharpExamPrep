@@ -1,0 +1,10 @@
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_13_Using_Task.WaitAll/bin/Debug/netcoreapp2.1/1_13_Using_Task.WaitAll.deps.json
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_13_Using_Task.WaitAll/bin/Debug/netcoreapp2.1/1_13_Using_Task.WaitAll.runtimeconfig.json
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_13_Using_Task.WaitAll/bin/Debug/netcoreapp2.1/1_13_Using_Task.WaitAll.runtimeconfig.dev.json
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_13_Using_Task.WaitAll/bin/Debug/netcoreapp2.1/1_13_Using_Task.WaitAll.dll
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_13_Using_Task.WaitAll/bin/Debug/netcoreapp2.1/1_13_Using_Task.WaitAll.pdb
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_13_Using_Task.WaitAll/obj/Debug/netcoreapp2.1/1_13_Using_Task.WaitAll.csproj.CoreCompileInputs.cache
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_13_Using_Task.WaitAll/obj/Debug/netcoreapp2.1/1_13_Using_Task.WaitAll.AssemblyInfoInputs.cache
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_13_Using_Task.WaitAll/obj/Debug/netcoreapp2.1/1_13_Using_Task.WaitAll.AssemblyInfo.cs
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_13_Using_Task.WaitAll/obj/Debug/netcoreapp2.1/1_13_Using_Task.WaitAll.dll
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_13_Using_Task.WaitAll/obj/Debug/netcoreapp2.1/1_13_Using_Task.WaitAll.pdb

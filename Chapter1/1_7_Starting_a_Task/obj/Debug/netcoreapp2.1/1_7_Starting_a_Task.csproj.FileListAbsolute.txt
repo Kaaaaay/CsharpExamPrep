@@ -1,0 +1,10 @@
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_7_Starting_a_Task/bin/Debug/netcoreapp2.1/1_7_Starting_a_Task.deps.json
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_7_Starting_a_Task/bin/Debug/netcoreapp2.1/1_7_Starting_a_Task.runtimeconfig.json
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_7_Starting_a_Task/bin/Debug/netcoreapp2.1/1_7_Starting_a_Task.runtimeconfig.dev.json
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_7_Starting_a_Task/bin/Debug/netcoreapp2.1/1_7_Starting_a_Task.dll
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_7_Starting_a_Task/bin/Debug/netcoreapp2.1/1_7_Starting_a_Task.pdb
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_7_Starting_a_Task/obj/Debug/netcoreapp2.1/1_7_Starting_a_Task.csproj.CoreCompileInputs.cache
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_7_Starting_a_Task/obj/Debug/netcoreapp2.1/1_7_Starting_a_Task.AssemblyInfoInputs.cache
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_7_Starting_a_Task/obj/Debug/netcoreapp2.1/1_7_Starting_a_Task.AssemblyInfo.cs
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_7_Starting_a_Task/obj/Debug/netcoreapp2.1/1_7_Starting_a_Task.dll
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_7_Starting_a_Task/obj/Debug/netcoreapp2.1/1_7_Starting_a_Task.pdb

@@ -1,0 +1,10 @@
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_16_Using_a_Parallel_Foreach/bin/Debug/netcoreapp2.1/1_16_Using_a_Parallel_Foreach.deps.json
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_16_Using_a_Parallel_Foreach/bin/Debug/netcoreapp2.1/1_16_Using_a_Parallel_Foreach.runtimeconfig.json
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_16_Using_a_Parallel_Foreach/bin/Debug/netcoreapp2.1/1_16_Using_a_Parallel_Foreach.runtimeconfig.dev.json
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_16_Using_a_Parallel_Foreach/bin/Debug/netcoreapp2.1/1_16_Using_a_Parallel_Foreach.dll
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_16_Using_a_Parallel_Foreach/bin/Debug/netcoreapp2.1/1_16_Using_a_Parallel_Foreach.pdb
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_16_Using_a_Parallel_Foreach/obj/Debug/netcoreapp2.1/1_16_Using_a_Parallel_Foreach.csproj.CoreCompileInputs.cache
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_16_Using_a_Parallel_Foreach/obj/Debug/netcoreapp2.1/1_16_Using_a_Parallel_Foreach.AssemblyInfoInputs.cache
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_16_Using_a_Parallel_Foreach/obj/Debug/netcoreapp2.1/1_16_Using_a_Parallel_Foreach.AssemblyInfo.cs
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_16_Using_a_Parallel_Foreach/obj/Debug/netcoreapp2.1/1_16_Using_a_Parallel_Foreach.dll
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_16_Using_a_Parallel_Foreach/obj/Debug/netcoreapp2.1/1_16_Using_a_Parallel_Foreach.pdb

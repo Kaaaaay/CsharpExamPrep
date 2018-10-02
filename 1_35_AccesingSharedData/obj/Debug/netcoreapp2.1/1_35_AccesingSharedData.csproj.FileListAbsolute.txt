@@ -1,0 +1,10 @@
+/Volumes/K/C#/repos/NullableTypesDemo/1_35_AccesingSharedData/bin/Debug/netcoreapp2.1/1_35_AccesingSharedData.deps.json
+/Volumes/K/C#/repos/NullableTypesDemo/1_35_AccesingSharedData/bin/Debug/netcoreapp2.1/1_35_AccesingSharedData.runtimeconfig.json
+/Volumes/K/C#/repos/NullableTypesDemo/1_35_AccesingSharedData/bin/Debug/netcoreapp2.1/1_35_AccesingSharedData.runtimeconfig.dev.json
+/Volumes/K/C#/repos/NullableTypesDemo/1_35_AccesingSharedData/bin/Debug/netcoreapp2.1/1_35_AccesingSharedData.dll
+/Volumes/K/C#/repos/NullableTypesDemo/1_35_AccesingSharedData/bin/Debug/netcoreapp2.1/1_35_AccesingSharedData.pdb
+/Volumes/K/C#/repos/NullableTypesDemo/1_35_AccesingSharedData/obj/Debug/netcoreapp2.1/1_35_AccesingSharedData.csproj.CoreCompileInputs.cache
+/Volumes/K/C#/repos/NullableTypesDemo/1_35_AccesingSharedData/obj/Debug/netcoreapp2.1/1_35_AccesingSharedData.AssemblyInfoInputs.cache
+/Volumes/K/C#/repos/NullableTypesDemo/1_35_AccesingSharedData/obj/Debug/netcoreapp2.1/1_35_AccesingSharedData.AssemblyInfo.cs
+/Volumes/K/C#/repos/NullableTypesDemo/1_35_AccesingSharedData/obj/Debug/netcoreapp2.1/1_35_AccesingSharedData.dll
+/Volumes/K/C#/repos/NullableTypesDemo/1_35_AccesingSharedData/obj/Debug/netcoreapp2.1/1_35_AccesingSharedData.pdb

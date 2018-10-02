@@ -1,0 +1,11 @@
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/bin/Debug/netcoreapp2.1/Chapter1.deps.json
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/bin/Debug/netcoreapp2.1/Chapter1.runtimeconfig.json
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/bin/Debug/netcoreapp2.1/Chapter1.runtimeconfig.dev.json
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/bin/Debug/netcoreapp2.1/Chapter1.dll
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/bin/Debug/netcoreapp2.1/Chapter1.pdb
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/obj/Debug/netcoreapp2.1/Chapter1.csprojResolveAssemblyReference.cache
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/obj/Debug/netcoreapp2.1/Chapter1.csproj.CoreCompileInputs.cache
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/obj/Debug/netcoreapp2.1/Chapter1.AssemblyInfoInputs.cache
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/obj/Debug/netcoreapp2.1/Chapter1.AssemblyInfo.cs
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/obj/Debug/netcoreapp2.1/Chapter1.dll
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/obj/Debug/netcoreapp2.1/Chapter1.pdb

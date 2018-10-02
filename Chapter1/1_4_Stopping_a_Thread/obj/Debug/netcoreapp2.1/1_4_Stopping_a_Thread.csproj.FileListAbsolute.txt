@@ -1,0 +1,10 @@
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_4_Stopping_a_Thread/bin/Debug/netcoreapp2.1/1_4_Stopping_a_Thread.deps.json
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_4_Stopping_a_Thread/bin/Debug/netcoreapp2.1/1_4_Stopping_a_Thread.runtimeconfig.json
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_4_Stopping_a_Thread/bin/Debug/netcoreapp2.1/1_4_Stopping_a_Thread.runtimeconfig.dev.json
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_4_Stopping_a_Thread/bin/Debug/netcoreapp2.1/1_4_Stopping_a_Thread.dll
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_4_Stopping_a_Thread/bin/Debug/netcoreapp2.1/1_4_Stopping_a_Thread.pdb
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_4_Stopping_a_Thread/obj/Debug/netcoreapp2.1/1_4_Stopping_a_Thread.csproj.CoreCompileInputs.cache
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_4_Stopping_a_Thread/obj/Debug/netcoreapp2.1/1_4_Stopping_a_Thread.AssemblyInfoInputs.cache
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_4_Stopping_a_Thread/obj/Debug/netcoreapp2.1/1_4_Stopping_a_Thread.AssemblyInfo.cs
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_4_Stopping_a_Thread/obj/Debug/netcoreapp2.1/1_4_Stopping_a_Thread.dll
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_4_Stopping_a_Thread/obj/Debug/netcoreapp2.1/1_4_Stopping_a_Thread.pdb

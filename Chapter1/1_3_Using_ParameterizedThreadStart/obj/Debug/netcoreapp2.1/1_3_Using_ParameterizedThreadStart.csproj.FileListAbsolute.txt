@@ -1,0 +1,10 @@
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_3_Using_ParameterizedThreadStart/bin/Debug/netcoreapp2.1/1_3_Using_ParameterizedThreadStart.deps.json
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_3_Using_ParameterizedThreadStart/bin/Debug/netcoreapp2.1/1_3_Using_ParameterizedThreadStart.runtimeconfig.json
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_3_Using_ParameterizedThreadStart/bin/Debug/netcoreapp2.1/1_3_Using_ParameterizedThreadStart.runtimeconfig.dev.json
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_3_Using_ParameterizedThreadStart/bin/Debug/netcoreapp2.1/1_3_Using_ParameterizedThreadStart.dll
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_3_Using_ParameterizedThreadStart/bin/Debug/netcoreapp2.1/1_3_Using_ParameterizedThreadStart.pdb
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_3_Using_ParameterizedThreadStart/obj/Debug/netcoreapp2.1/1_3_Using_ParameterizedThreadStart.csproj.CoreCompileInputs.cache
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_3_Using_ParameterizedThreadStart/obj/Debug/netcoreapp2.1/1_3_Using_ParameterizedThreadStart.AssemblyInfoInputs.cache
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_3_Using_ParameterizedThreadStart/obj/Debug/netcoreapp2.1/1_3_Using_ParameterizedThreadStart.AssemblyInfo.cs
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_3_Using_ParameterizedThreadStart/obj/Debug/netcoreapp2.1/1_3_Using_ParameterizedThreadStart.dll
+/Volumes/K/C#/repos/NullableTypesDemo/Chapter1/1_3_Using_ParameterizedThreadStart/obj/Debug/netcoreapp2.1/1_3_Using_ParameterizedThreadStart.pdb
